@@ -1,0 +1,43 @@
+.bento__card:nth-child(1) {
+  padding: 2.38rem 2.5rem;
+}
+.bento__card:nth-child(1) .bento__card--title {
+  line-height: 2.6rem;
+  margin-bottom: 1.6rem;
+  font-size: 2.7rem;
+}
+.bento__card:nth-child(1) .bento__card--title div {
+  font-size: 2.4rem;
+}
+.bento__card--hightlighting {
+  color: var(--Yellow-500);
+}
+.bento__card:nth-child(1) .bento__card--image-container {
+  margin: auto;
+  width: 10.38rem;
+  margin-bottom: 0.8rem;
+}
+.bento__card:nth-child(1) .bento__card--text {
+  color: var(--Purple-100);
+}
+
+@media screen and (min-width: 1024px) {
+  .bento__card:nth-child(1) {
+    padding: 2.8rem 2.5rem;
+    height: 290px;
+  }
+
+  br {
+    display: none;
+  }
+
+  .bento__card:nth-child(1) .bento__card--title {
+    line-height: 2.8rem;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  .bento__card:nth-child(1) .bento__card--image-container {
+    margin-bottom: 0;
+  }
+}

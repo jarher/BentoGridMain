@@ -1,0 +1,39 @@
+.bento__card:nth-child(4) {
+  padding: 1.94rem 0.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.38rem;
+  background: var(--Purple-100);
+  overflow: hidden;
+}
+
+.bento__card:nth-child(4) .bento__card--title {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.bento__card:nth-child(4) .bento__card--text {
+  padding: 0 1.3rem;
+}
+
+@media screen and (min-width: 1024px) {
+  .bento__card:nth-child(4) {
+    padding: 2.5rem 1.94rem 1.94rem;
+    height: 567px;
+  }
+
+  .bento__card:nth-child(4) .bento__card--title {
+    text-align: left;
+    line-height: 1.3rem;
+  }
+
+  .bento__card:nth-child(4) .bento__card--image-container {
+    width: 186%;
+  }
+
+  .bento__card:nth-child(4) .bento__card--text {
+    padding: 0;
+    text-align: left;
+    font-size: 0.9rem;
+  }
+}

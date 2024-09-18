@@ -1,0 +1,13 @@
+.bento__card:nth-child(6) {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.bento__card:nth-child(6) .bento__card--title {
+  font-size: 1.8rem;
+}
+
+.bento__card:nth-child(6) .bento__card--image-container {
+  width: 9.8rem;
+}

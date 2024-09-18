@@ -1,4 +1,4 @@
-# Frontend Mentor - Bento grid
+<!-- # Frontend Mentor - Bento grid
 
 ![Design preview for the Bento grid coding challenge](./preview.jpg)
 
@@ -94,4 +94,4 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** 🚀
+**Have fun building!** 🚀 -->

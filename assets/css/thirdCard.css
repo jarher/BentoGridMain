@@ -1,0 +1,21 @@
+.bento__card:nth-child(3) {
+  padding: 1rem 0.8rem 0;
+}
+
+.bento__card:nth-child(3) .bento__card--title {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.bento__card:nth-child(3) .bento__card--image-container {
+  width: 11.55rem;
+  margin-bottom: -1.4rem;
+}
+
+@media screen and (min-width: 1024px) {
+  .bento__card:nth-child(3) .bento__card--title {
+    font-size: 1.5rem;
+    line-height: 1.4rem;
+    margin-bottom: 1.7rem;
+  }
+}

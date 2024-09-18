@@ -1,0 +1,26 @@
+.bento__card:nth-child(7) {
+  background: var(--Yellow-100);
+  padding: 1.8rem 1.7rem;
+}
+
+.bento__card:nth-child(7) .bento__card--title {
+  font-size: 1.6rem;
+  margin-bottom: 1.38rem;
+}
+
+.bento__card:nth-child(7) .bento__card--hightlighting {
+  color: var(--Purple-500);
+  font-family: "DM+Sans-italic";
+}
+
+.bento__card:nth-child(7) .bento__card--image-container {
+  width: 10.5rem;
+}
+@media screen and (min-width: 1024px) {
+  .bento__card:nth-child(7) {
+    padding-top: 4rem;
+  }
+  .bento__card:nth-child(7) .bento__card--title {
+    line-height: 1.5rem;
+  }
+}
