@@ -36,6 +36,9 @@
     font-size: 3rem;
     margin-bottom: 1rem;
   }
+  .bento__card:nth-child(1) .bento__card--title em {
+    margin-right: 0.5rem;
+  }
 
   .bento__card:nth-child(1) .bento__card--image-container {
     margin-bottom: 0;
