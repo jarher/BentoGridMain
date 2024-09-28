@@ -6,6 +6,7 @@
 
 .bento__card:nth-child(6) .bento__card--title {
   font-size: 1.8rem;
+  font-weight: 400;
 }
 
 .bento__card:nth-child(6) .bento__card--image-container {

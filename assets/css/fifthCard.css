@@ -24,7 +24,7 @@
   .bento__card:nth-child(5) .bento__card--title {
     padding: 0;
     text-align: left;
-    font-size: 2rem;
+    font-size: 1.9rem;
     line-height: 2rem;
     flex: 1;
   }
