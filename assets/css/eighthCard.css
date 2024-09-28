@@ -10,8 +10,9 @@
 
 @media screen and (min-width: 1024px) {
   .bento__card:nth-child(8) .bento__card--title {
-    font-size: 1.8rem;
-    line-height: 1.6rem;
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 2rem;
     margin-bottom: 2rem;
   }
   .bento__card:nth-child(8) .bento__card--image-container {

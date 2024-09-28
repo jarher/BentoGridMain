@@ -21,6 +21,8 @@
     padding-top: 4rem;
   }
   .bento__card:nth-child(7) .bento__card--title {
-    line-height: 1.5rem;
+    line-height: 2rem;
+    font-weight: 500;
+    font-size: 2rem;
   }
 }
