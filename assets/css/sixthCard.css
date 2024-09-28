@@ -11,3 +11,11 @@
 .bento__card:nth-child(6) .bento__card--image-container {
   width: 9.8rem;
 }
+@media screen and (min-width: 1024px) {
+  .bento__card:nth-child(6) .bento__card--title {
+    font-size: 3.1rem;
+  }
+  .bento__card:nth-child(6) .bento__card--text {
+    font-size: 0.9rem;
+  }
+}

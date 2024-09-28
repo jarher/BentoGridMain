@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/jarher/BentoGridMain]
-- Live Site URL: [[Add live site URL here](https://jarher.github.io/BentoGridMain/)]
+- Solution URL: []
+- Live Site URL: [https://jarher.github.io/BentoGridMain/]
 
 ## My process
 
